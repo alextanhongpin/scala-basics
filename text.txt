@@ -1,0 +1,200 @@
+Live Chat Web Socket messaging
+Server URL : ws://chat-beta-cps.tetralogiq.com:8161
+
+Summary list of events
+Listen Event Type:
+authenticated
+unauthenticated
+ticketCreated (for operator only)
+ticketAccepted
+ticketStatusUpdated
+messageUpdated
+messageStatusUpdated
+typing
+notifyOfAssignment (for operator only)
+ticketResponded (for operator only)
+
+Emit Event Type:
+authenticate
+subscribe
+subscribeOperator (for operator only)
+unsubscribe
+unsubscribeOperator (for operator only)
+createTicket  (for user only)
+updateMessage
+acceptTicket (for operator only)
+updateTicketStatus (for operator only)
+updateMessageStatus 
+typing
+assignTicket (for operator only)
+
+
+Event Details
+Authentication and Subscription
+Note: 
+Right after connecting to the web socket, call the ‘authenticate’ event for authentication. Upon receiving the ‘authenticated’ event, then only can subscribe to channel and listen to other events.
+Upon received ‘unauthenticated’ event, retry with a new access token.
+
+Authorize to the server 
+Need to fire upon connect to web socket
+NodeJS Code snippet:
+        socket.emit(‘authenticate’,{accessToken: [access token retrieved from OAuth Server]});
+
+
+Subscribe to channel 
+NodeJS Code snippet:
+socket.emit(‘subscribe’, userObject); //userObject is mandatory for external programs
+
+Subscribe to operator channel
+NodeJS Code snippet:
+socket.emit(‘subscribeOperator’);
+
+Listen event types – NodeJS code snippets
+Message updated event (Received when there is incoming new message)
+socket.on(‘messageUpdated’, function(messageObject) {
+// confirm message delivery (single message update)             socket.emit(‘updateMessageStatus’, messageObject.messageId, 2, messageObject.recipientId, messageObject.senderId, true, function(err) { 
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+// confirm user has read the message (single message update)        
+socket.emit(‘updateMessageStatus’, messageObject.messageId, 3, messageObject.recipientId, messageObject.senderId, false, function(err) { 
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+// confirm operator has read the message (bulk update)      
+socket.emit(‘updateMessageStatus’, ‘all’, 3, messageObject.recipientId, messageObject.senderId, false, function(err) {
+//implementation upon callback. ‘err’ will be empty if there is no error.
+ });
+}   
+
+Message Status Updated Event (Received when message’s status has been updated)
+socket.on(‘messageStatusUpdated’, function(messageId, status) {
+    //Do action
+}
+            
+Ticket Accepted Event (Received when chat ticket has been accepted by operator)
+socket.on’(ticketAccepted’, function(ticketObject) {
+    //Do action
+});
+        
+Ticket Status Updated Event (Received when ticket’s status has been updated)
+socket.on(‘ticketStatusUpdated’, function(ticketId, status) {
+    //Do action     
+});
+        
+Typing Event (Received when the other person is typing)
+socket.on(‘typing’, function(ticketId, userName) {
+    //Do action
+});
+
+
+Notified of Ticket Assignment Event – Chat ticket being hijacked from you (For operator only)
+socket.on(‘notifyOfAssignment’, function(ticketId, 0, displayNm) {
+//Do action
+// Please refresh the page to get the new ticket display on the page. 
+});
+
+Notified of Ticket Assignment Event –Ticket being assigned to you (For operator only)
+socket.on(‘notifyOfAssignment’, function(ticketId, 1, displayNm) {
+//Do action
+// Please refresh the page to get the new ticket display on the page. 
+});
+
+Ticket responded by operator (from having unread messages to none) (For operator only)
+socket.on(‘ticketResponded’, function(ticketId) {
+//Do action
+});
+
+
+
+Emit event types – NodeJS code snippets
+Create a new chat ticket (For user only)
+socket.emit(‘createTicket’, ticket.ticketId, ticketObject, function(err) {
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+Create a message for a chat ticket
+socket.emit(‘updateMessage’, ticketId, messageId, messageObject, recipientId, function(err) { 
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+Accept ticket (operator only) – change the status in the ticketObject to open
+socket.emit(‘acceptTicket’, this.ticketId, ticketObject, this.ownerId, function(err) {
+//implementation upon callback. ‘err’ will be empty if there is no error.
+ });
+
+Update ticket status(operator only) – change the status in the ticketObject before emit
+socket.emit(‘updateTicketStatus’, ticketId, ticketObject, status, ticketOwnerId, function(err) { 
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+Update message status – change the status in the messageObject
+socket.emit(‘updateMessageStatus’, messageObject.messageId, 2, messageObject.recipientId, messageObject.senderId, true, function(err) { 
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+
+Typing
+//From user
+socket.emit(‘typing’, ticketId, ticketObject.handleById);
+
+//From operator
+socket.emit(‘typing’, ticketId, ticketObject.ownerId);
+
+Assign Ticket Event (For operator only)
+socket.emit(‘assignTicket’, assignTicketObject, function(err) { 
+//implementation upon callback. ‘err’ will be empty if there is no error.
+});
+
+
+Object Reference
+User Object
+{
+    userId: string,//mandatory
+    fullNm: string,
+    salutation: string,
+    gender: string,
+    dob: string, //ISO date string, yyyy-MM-ddTHH:mm:ss.sssZ,
+    email: string,
+    latitude: double,
+    longitude: double,
+    programId: string //Mandatory if external client
+}
+
+Message Object
+{
+ticketId: string, 
+recipientId: string,
+recipientNm: string,
+messageId: string, 
+content: string, //Message to be sent
+type: int, // 1 = text message, 2  =  image, sent the image in base64 string  as content
+encoding: "utf-8", //Passed in as utf-8
+createdAt: string, //ISO date string, yyyy-MM-ddTHH:mm:ss.sssZ
+statusId: int // 1 = sent, 2= delivered, 3 = read
+senderId: String //Ignore when sending, server will populate to the recipient
+senderNm: String, //Ignore when sending, server will populate to the recipient
+programId: string //Mandatory if external client
+}
+
+Ticket Object
+{
+ticketId: string, //guid
+displayNm: string,
+ticketNm: string, 
+statusId: int, // 100= new, 200=open, 10000=close
+createdAt: string, // ISO date string, yyyy-MM-ddTHH:mm:ss.sssZ
+handleById: string, // pass in empty string
+handleByNm: string, // pass in empty string
+lastResponseAt: string, // pass in empty string
+ownerId: string, //Ignore when sending, server will populate to the recipient
+ownerNm: string, //Ignore when sending, server will populate to the recipient
+programId: string, //Mandatory if external client
+isExternal: Boolean //Ignore when sending, server will populate to the recipient
+}
+
+Assign Ticket Object
+{
+ticketId: string, //guid
+handleById: string // pass in null if hijack (i.e. assign to self), else pass in operator’s user profile id if assign ticket to other operator
+}
