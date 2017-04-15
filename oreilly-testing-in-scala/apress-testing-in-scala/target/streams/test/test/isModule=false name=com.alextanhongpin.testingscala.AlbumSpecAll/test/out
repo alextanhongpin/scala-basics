@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mAlbumSpecAll:[0m[0m
+[0m[[0minfo[0m] [0m[32mAn Album[0m[0m
+[0m[[0minfo[0m] [0m[33m- can add an Artist to the album at construction time (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m  + Given The album Thriller by Michael Jackson [0m[0m
+[0m[[0minfo[0m] [0m[33m  + When The artist of the album is obtained [0m[0m
+[0m[[0minfo[0m] [0m[33m  + Then The artist should be an instance of Artist [0m[0m
+[0m[[0minfo[0m] [0m[33m  + And The artist's first name and last name should be Michael Jackson [0m[0m
+[0m[[0minfo[0m] [0m[33m  + This is still pending, since there may be more to accomplish in this test [0m[0m
+[0m[[0minfo[0m] [0m[33m- can add a Producer to an album at construction time !!! IGNORED !!![0m[0m

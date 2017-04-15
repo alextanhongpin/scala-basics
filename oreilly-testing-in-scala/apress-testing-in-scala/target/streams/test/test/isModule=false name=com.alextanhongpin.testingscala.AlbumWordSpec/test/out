@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mAlbumWordSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAn Album[0m[0m
+[0m[[0minfo[0m] [0m[32m  when created[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should accept the title, the year, and a Band as a parameter, and be able to read those parameter back[0m[0m
+[0m[[0minfo[0m] [0m[32mAn Album[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an IllegalArgumentException if there are no acts when created[0m[0m

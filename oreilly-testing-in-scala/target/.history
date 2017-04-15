@@ -1,0 +1,16 @@
+session save
+set name:="data-science"
+session save
+run
+exit
+run
+runMain GitHubUser pbugnion
+runMain HelloWorld pbugnion
+runMain GitHubUser alextanhongpin
+run GitHubUserConcurrent alextanhongpin
+asd
+runMain GitHubUserConcurrent alextanhongpin
+runMain GitHubUserConcurrent alextanhongpin jy-binary
+exit
+run
+exit

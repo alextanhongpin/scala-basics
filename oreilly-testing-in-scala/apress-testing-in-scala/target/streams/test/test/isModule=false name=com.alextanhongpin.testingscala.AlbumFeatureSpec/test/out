@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mAlbumFeatureSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mFeature: An album's default constructor should support a parameter thatn accepts Option(List(Tracks))[0m[0m
+[0m[[0minfo[0m] [0m[32m  Scenario: Album's default constructor is given a list of the 3 tracks exactly for the tracks parameter[0m[0m
+[0m[[0minfo[0m] [0m[33m  Scenario: Album's default constructor is given an empty List for the tracks parameter (pending)[0m[0m
+[0m[[0minfo[0m] [0m[32m  Scenario: Album's default constructor is given a None for the tracks parameter[0m[0m
+[0m[[0minfo[0m] [0m[32m    Given the band, the Doobie Brothers from 1973 [0m[0m
+[0m[[0minfo[0m] [0m[32m    When the album is instantiated with the title, the year, none tracks, and the Doobie Brothers [0m[0m
+[0m[[0minfo[0m] [0m[32m    Then calling the album's title, year, tracks, acts property should yield the same results [0m[0m
+[0m[[0minfo[0m] [0m[32mFeature: An album should have addTrack method that takes a track and returns an immutable copy of the Album with the added track[0m[0m

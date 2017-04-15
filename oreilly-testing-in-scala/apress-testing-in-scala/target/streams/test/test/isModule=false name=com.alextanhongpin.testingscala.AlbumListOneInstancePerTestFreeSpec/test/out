@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mAlbumListOneInstancePerTestFreeSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mGiven an initial Grace Jones discography[0m[0m
+[0m[[0minfo[0m] [0m[32m- when an additional two albums are added, then the discography size should be 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- when one additional album is added, then the discography size should be 2[0m[0m

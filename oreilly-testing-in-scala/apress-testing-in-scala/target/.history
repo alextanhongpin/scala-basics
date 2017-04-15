@@ -1,0 +1,18 @@
+set name := "Testing Scala"
+set version := "1.0"
+set scalaVersion := "2.12.1"
+session save
+exit
+~test
+reload
+update
+reload
+update
+~test
+reload
+update
+~test
+reload
+update
+~test
+exit

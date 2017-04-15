@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mTrackFlatSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA track[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a constructor that accepts the name and the length of the track [0m[0m
+[0m[[0minfo[0m] [0m[32m	in min:sec and returns a joda.time.Period when track.period is called[0m[0m
+[0m[[0minfo[0m] [0m[32m- must throw an IllegalArgumentException with the message \"Track name cannot be blank\"[0m[0m
+[0m[[0minfo[0m] [0m[32m	if the name of the track is blank.[0m[0m

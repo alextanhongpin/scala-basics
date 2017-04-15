@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mShouldMatcherSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mUsing all should matchers[0m[0m
+[0m[[0minfo[0m] [0m[32m- has simple matchers[0m[0m
+[0m[[0minfo[0m] [0m[32m- has string matchers[0m[0m
+[0m[[0minfo[0m] [0m[32m- has <, >, <=, >=, === matchers[0m[0m

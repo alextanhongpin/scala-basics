@@ -1,0 +1,568 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$2.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$3.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$4.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$5.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$fetchUserFromUrl$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$main$1$$anonfun$apply$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$main$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$main$2.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$User$.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$User.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$2.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$3.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$4.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$5.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$6$$anonfun$apply$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$6$$anonfun$apply$2.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$6.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$7.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$8.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$$anonfun$1.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$$anonfun$2.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$User$.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$User.class
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser.class
+binary dependencies:
+15 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> /Users/alextanhongpin/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> /Users/alextanhongpin/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.5.1.jar
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> /Users/alextanhongpin/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$4
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$5
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$fetchUserFromUrl$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$main$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$main$1$$anonfun$apply$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$$anonfun$main$2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$User
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent$User$
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$4
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$5
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$6
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$6$$anonfun$apply$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$6$$anonfun$apply$2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$7
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld$$anonfun$8
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser$
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser$$anonfun$1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser$$anonfun$2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser$User
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser$User$
+used names:
+356 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> &&
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ->
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> <byname>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> <init>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> <repeated>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ==
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> A
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> A1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> AbstractFunction2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> AbstractPartialFunction
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Any
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> AnyRef
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Array
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ArrayOps
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ArrowAssoc
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Await
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Awaitable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> B
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> B1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Boolean
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> BufferedSource
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> CanBuildFrom
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Codec
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Coll
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> DefaultFormats
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Duration
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> DurationInt
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ExecutionContext
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ExecutionContextExecutor
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ExtractableJsonAstNode
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Failure
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> FiniteDuration
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Formats
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Function1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Future
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> GitHubUserConcurrent
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Implicits
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> IndexOutOfBoundsException
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Int
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Iterator
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> JField
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> JValue
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> JsonAST
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> JsonInput
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> JsonMethods
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> List
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Long
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> M
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Manifest
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ManifestFactory
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> MatchError
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> MonadicJValue
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> None
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Nothing
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Object
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> PartialFunction
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Predef
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Product
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> S
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ScalaRunTime
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Serializable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Some
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Source
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Statics
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> String
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> StringContext
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Success
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> T
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> T0
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> T1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> T2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> T3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> That
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Throwable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> TraversableOnce
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Try
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Tuple2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Tuple3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> U
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> Unit
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> User
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> _$3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> _1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> _2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> _3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> _toString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> any2ArrowAssoc
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> anyHash
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> apply
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> args
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> asInstanceOf
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> canBuildFrom
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> classType
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> concurrent
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> duration
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> e
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> eq
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> exception
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> extract
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> extractUser
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> fallbackSystemCodec
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> fetchUserFromUrl
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> finalizeHash
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> foreach
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> formats
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> fromURL
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> global
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> id
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> immutable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> io
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> isInstanceOf
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> json4s
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> jsonResponse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> jvalue2extractable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> jvalue2monadic
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> longHash
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> map
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> minute
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> mix
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> mkString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> name
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> name2User
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> names
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> native
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ne
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> o
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> onComplete
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> org
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> package
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> parse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> parsedResponse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> println
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> r
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ready
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> refArrayOps
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> reflect
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> response
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> runtime
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> s
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> scala
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> sequence
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> string2JsonInput
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> toList
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> toString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> transformField
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> typedProductIterator
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> u
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> unchecked
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> url
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> user
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> userName
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> util
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> value
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> ||
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> ->
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> <init>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> ==
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> A
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Any
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> AnyRef
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Array
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> ArrowAssoc
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> B
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> BigInt
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Boolean
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> BufferedSource
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> CanBuildFrom
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Codec
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Coll
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> FilterMonadic
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Function1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> GenTraversableOnce
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> HelloWorld
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JField
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JInt
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JObject
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JValue
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JValueWithFilter
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JsonAST
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JsonInput
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> JsonMethods
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> List
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> MatchError
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> MonadicJValue
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Nothing
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Object
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Option
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Predef
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Source
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> String
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> T
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> T0
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> That
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Tuple2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> Unit
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> \
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> _1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> _2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> allString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> any2ArrowAssoc
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> asInstanceOf
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> canBuildFrom
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> fallbackSystemCodec
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> fields
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> firstField
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> flatMap
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> followerList
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> followers
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> fromURL
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> get
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> head
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> headOption
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> id
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> immutable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> io
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> isEmpty
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> isInstanceOf
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> json4s
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> jsonResponse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> jsonResponse2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> jsonResponse3
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> jvalue2monadic
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> key
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> loginName
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> map
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> mkString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> native
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> num
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> obj
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> org
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> ownerLogin
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> package
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> parse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> println
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> response
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> s
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> scala
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> size
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> string2JsonInput
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> unapply
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> unary_!
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> unchecked
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> value
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> withFilter
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> x
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> y
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> &&
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> <byname>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> <init>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> <repeated>
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ==
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> A
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> A1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> AbstractFunction2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> AbstractPartialFunction
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Any
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> AnyRef
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Array
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ArrayOps
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> B
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> B1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Boolean
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> BufferedSource
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Codec
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> DefaultFormats
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ExtractableJsonAstNode
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Formats
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Function1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> GitHubUser
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> IllegalArgumentException
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> IndexOutOfBoundsException
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Int
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Iterator
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> JField
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> JValue
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> JsonAST
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> JsonInput
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> JsonMethods
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Long
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Manifest
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ManifestFactory
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> MonadicJValue
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> None
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Nothing
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Object
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Option
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> PartialFunction
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Predef
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Product
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ScalaRunTime
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Serializable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Some
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Source
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Statics
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> String
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> StringContext
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> T
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> T0
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> T1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> T2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Tuple2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> Unit
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> User
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> _1
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> _2
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> _toString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> anyHash
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> apply
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> args
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> asInstanceOf
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> classType
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> eq
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> extract
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> extractUser
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> fallbackSystemCodec
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> fetchUserFromUrl
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> finalizeHash
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> formats
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> fromURL
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> getOrElse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> headOption
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> id
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> io
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> isInstanceOf
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> json4s
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> jsonResponse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> jvalue2extractable
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> jvalue2monadic
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> longHash
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> mix
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> mkString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> name
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> native
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ne
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> obj
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> org
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> package
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> parse
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> println
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> refArrayOps
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> reflect
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> response
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> runtime
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> s
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> scala
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> string2JsonInput
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> toString
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> transformField
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> transformedObject
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> typedProductIterator
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> unchecked
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> url
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> user
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> userName
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> ||
+product stamps:
+31 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$$anonfun$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$$anonfun$2.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$User$.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser$User.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUser.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$2.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$3.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$4.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$5.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$fetchUserFromUrl$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$main$1$$anonfun$apply$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$main$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$$anonfun$main$2.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$User$.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent$User.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/GitHubUserConcurrent.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$2.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$3.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$4.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$5.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$6$$anonfun$apply$1.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$6$$anonfun$apply$2.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$6.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$7.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$$anonfun$8.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld$.class -> lastModified(1492186912000)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/target/scala-2.10/classes/HelloWorld.class -> lastModified(1492186912000)
+source stamps:
+3 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> hash(cb86c7acf85a0ca1e2525e113ac4430e24ed6296)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> hash(2c1d7525a68f1178fabd7db0ecd36a915c325a84)
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> hash(8ec01d3e31753fd025ff491177638c729a363d43)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.5.1.jar -> lastModified(1489810531000)
+/Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.5.1.jar -> lastModified(1489810547000)
+/Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.5.1.jar -> lastModified(1489810510000)
+/Users/alextanhongpin/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.5.1.jar -> org.json4s.JsonAST$
+/Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.5.1.jar -> org.json4s.DefaultFormats$
+/Users/alextanhongpin/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.5.1.jar -> org.json4s.native.JsonMethods
+/Users/alextanhongpin/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Serializable
+internal apis:
+3 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhweelc6AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCZsaTidAAHZm9ybWF0c3VxAH4ACQAAAChzcQB+AAu4zGvldAAGbm90aWZ5c3EAfgALljcr+HQAEGZldGNoVXNlckZyb21VcmxzcQB+AAu4S3LrdAAHdW5hcHBseXNxAH4AC3UkNgh0AAdjdXJyaWVkc3EAfgALgcyA+nQAFEdpdEh1YlVzZXJDb25jdXJyZW50c3EAfgAL1PSviXQABHdhaXRzcQB+AAsU7PkWdAAOY29weSRkZWZhdWx0JDJzcQB+AAub3Vj3dAANJGFzSW5zdGFuY2VPZnNxAH4AC9eKpxV0AAxwcm9kdWN0QXJpdHlzcQB+AAsQSZC5dAAGZXF1YWxzc3EAfgALbH7zHnQADGFzSW5zdGFuY2VPZnNxAH4AC2tI8Zp0AAxzeW5jaHJvbml6ZWRzcQB+AAvb+9pNdAANJGlzSW5zdGFuY2VPZnNxAH4ACwI15wl0AAZ0dXBsZWRzcQB+AAtGwUU2dAAIY2FuRXF1YWxzcQB+AAszfsbKdAAEbWFpbnNxAH4AC9yJMyx0AA1wcm9kdWN0UHJlZml4c3EAfgALHbFW0XQACW5vdGlmeUFsbHNxAH4AC8/BsE50AAxpc0luc3RhbmNlT2ZzcQB+AAv72amjdAAGPGluaXQ+c3EAfgALydm6H3QAAmlkc3EAfgALfV+Ou3QABWFwcGx5c3EAfgALIvPq3nQAAj09c3EAfgALd5utuXQABWNsb25lc3EAfgALx1iCHHQABiRpbml0JHNxAH4AC8S4Yj10AARVc2Vyc3EAfgALBYP5SnQABGNvcHlzcQB+AAtWozdCdAAIdG9TdHJpbmdzcQB+AAtrJtI5dAACIT1zcQB+AAtpYs9AdAAIZ2V0Q2xhc3NzcQB+AAusNNczdAAOY29weSRkZWZhdWx0JDFzcQB+AAvJ6u9WdAACbmVzcQB+AAvSih09dAACZXFzcQB+AAuL126BdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALqukj8nQACHVzZXJOYW1lc3EAfgALA92b8nQAAiMjc3EAfgALJKuC8XQACGZpbmFsaXplc3EAfgALQbXpEHQADnByb2R1Y3RFbGVtZW50c3EAfgAL3hp0QHQACGhhc2hDb2Rlc3EAfgALkN6Wv3QAC2V4dHJhY3RVc2Vyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCAc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AhXNxAH4AgHVxAH4AZAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AanEAfgBzdXEAfgB0AAAAAHNxAH4AdgBxAH4AL3VxAH4AeAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCEdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AoHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AI14cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHt0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIRzcQB+AJN0AAVBcnJheXEAfgCZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJN0AAZTdHJpbmdzcQB+AJdzcQB+AJp1cQB+AJ0AAAADc3EAfgCfdAAEamF2YXNxAH4An3QABGxhbmdxAH4ApHNxAH4AgHVxAH4AZAAAAABzcQB+AIB1cQB+ALgAAAACc3EAfgCTdAAGT2JqZWN0cQB+ALxzcQB+AJN0AANBbnlxAH4AmXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbbUVKnHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGovVXNlcnMvYWxleHRhbmhvbmdwaW4vRG9jdW1lbnRzL3NjYWxhL3NjYWxhLWJhc2ljcy9hcHJlc3Mtc2NhbGEtZm9yLWRhdGEtc2NpZW5jZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUy4bHrPhaDKHiUl4ROsRDDiTtYpY=
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwK4NdXAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDWnM03QABm5vdGlmeXNxAH4ADKuOnoN0AAR3YWl0c3EAfgAMwDKM43QADSRhc0luc3RhbmNlT2ZzcQB+AAwSe+WRdAAGZXF1YWxzc3EAfgAMbpmPmnQADGFzSW5zdGFuY2VPZnNxAH4ADHxom4p0AAxzeW5jaHJvbml6ZWRzcQB+AAySjAkMdAANJGlzSW5zdGFuY2VPZnNxAH4ADKEbvGJ0AARtYWluc3EAfgAMo+jaW3QACW5vdGlmeUFsbHNxAH4ADJBLpE50AAxpc0luc3RhbmNlT2ZzcQB+AAxmmfdhdAACPT1zcQB+AAw3SHUQdAAFY2xvbmVzcQB+AAwEICd1dAAIdG9TdHJpbmdzcQB+AAyMwtJVdAACIT1zcQB+AAznR7a2dAAKSGVsbG9Xb3JsZHNxAH4ADNtinDN0AAhnZXRDbGFzc3NxAH4ADIfDall0AAJuZXNxAH4ADEY0rCt0AAJlcXNxAH4ADBo4mZp0AAIjI3NxAH4ADNg9zBh0AAhmaW5hbGl6ZXNxAH4ADEtTxj90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AK3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW21FSpx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABqL1VzZXJzL2FsZXh0YW5ob25ncGluL0RvY3VtZW50cy9zY2FsYS9zY2FsYS1iYXNpY3MvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCwddSWmjxF4+r19sOzTapFcMlqE
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLOIf5QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBQot8QdAAHZm9ybWF0c3VxAH4ACQAAAChzcQB+AAuc5gStdAAGbm90aWZ5c3EAfgALsCcsqXQAEGZldGNoVXNlckZyb21VcmxzcQB+AAtBGkFQdAAHdW5hcHBseXNxAH4AC5VnSNp0AAdjdXJyaWVkc3EAfgALo7s6tnQABHdhaXRzcQB+AAuWg+jndAAOY29weSRkZWZhdWx0JDJzcQB+AAv2K4WJdAANJGFzSW5zdGFuY2VPZnNxAH4AC4xnx0R0AAxwcm9kdWN0QXJpdHlzcQB+AAt/Jpx0dAAGZXF1YWxzc3EAfgAL4q4hU3QADGFzSW5zdGFuY2VPZnNxAH4AC6M9Mix0AApHaXRIdWJVc2Vyc3EAfgALG3xZb3QADHN5bmNocm9uaXplZHNxAH4ACzzAYMd0AA0kaXNJbnN0YW5jZU9mc3EAfgALsaayD3QABnR1cGxlZHNxAH4AC9w+zJt0AAhjYW5FcXVhbHNxAH4AC7In+g10AARtYWluc3EAfgALupDas3QADXByb2R1Y3RQcmVmaXhzcQB+AAtqRDiBdAAJbm90aWZ5QWxsc3EAfgALfmlc4HQADGlzSW5zdGFuY2VPZnNxAH4AC0t8WmB0AAY8aW5pdD5zcQB+AAsRuCuVdAACaWRzcQB+AAvw7v87dAAFYXBwbHlzcQB+AAsTIl+ndAACPT1zcQB+AAuUMjqXdAAFY2xvbmVzcQB+AAtq33qjdAAGJGluaXQkc3EAfgALQSJ/yXQABFVzZXJzcQB+AAuQ6eJ2dAAEY29weXNxAH4ACzHjDxh0AAh0b1N0cmluZ3NxAH4AC0WXL1Z0AAIhPXNxAH4AC+dw2dd0AAhnZXRDbGFzc3NxAH4ACyXs+ol0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC9wQF1N0AAJuZXNxAH4AC9oUESN0AAJlcXNxAH4AC3hlSYZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvmx9xZdAAIdXNlck5hbWVzcQB+AAvI2xcUdAACIyNzcQB+AAu91uC1dAAIZmluYWxpemVzcQB+AAt4DyjMdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAteGz/udAAIaGFzaENvZGVzcQB+AAsCysJBdAALZXh0cmFjdFVzZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCFc3EAfgCAdXEAfgBkAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBqcQB+AHN1cQB+AHQAAAAAc3EAfgB2AHEAfgAvdXEAfgB4AAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AjXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Ae3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AlFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AhHNxAH4Ak3QABUFycmF5cQB+AJl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ak3QABlN0cmluZ3NxAH4Al3NxAH4AmnVxAH4AnQAAAANzcQB+AJ90AARqYXZhc3EAfgCfdAAEbGFuZ3EAfgCkc3EAfgCAdXEAfgBkAAAAAHNxAH4AgHVxAH4AuAAAAAJzcQB+AJN0AAZPYmplY3RxAH4AvHNxAH4Ak3QAA0FueXEAfgCZdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVttRUqcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAai9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Eb2N1bWVudHMvc2NhbGEvc2NhbGEtYmFzaWNzL2FwcmVzcy1zY2FsYS1mb3ItZGF0YS1zY2llbmNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSOwB0+MXU/0CX/SRF3Y4xymjY9Qw==
+external apis:
+0 items
+source infos:
+3 items
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/GitHubUserConcurrent.scala -> 
+AAAAAAAAAAEAAAEAAAAyAEIgICAgQXdhaXQucmVhZHkoRnV0dXJlLnNlcXVlbmNlKG5hbWUyVXNlci5tYXAgeyBfLl8yIH0pLCAxIG1pbnV0ZSkBAAAFtQEAAAA7AQA7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGsvVXNlcnMvYWxleHRhbmhvbmdwaW4vRG9jdW1lbnRzL3NjYWxhL3NjYWxhLWJhc2ljcy9hcHJlc3Mtc2NhbGEtZm9yLWRhdGEtc2NpZW5jZS9HaXRIdWJVc2VyQ29uY3VycmVudC5zY2FsYQEAay9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Eb2N1bWVudHMvc2NhbGEvc2NhbGEtYmFzaWNzL2FwcmVzcy1zY2FsYS1mb3ItZGF0YS1zY2llbmNlL0dpdEh1YlVzZXJDb25jdXJyZW50LnNjYWxhAWtwb3N0Zml4IG9wZXJhdG9yIG1pbnV0ZSBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4KVGhpcyBjYW4gYmUgYWNoaWV2ZWQgYnkgYWRkaW5nIHRoZSBpbXBvcnQgY2xhdXNlICdpbXBvcnQgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcycKb3IgYnkgc2V0dGluZyB0aGUgY29tcGlsZXIgb3B0aW9uIC1sYW5ndWFnZTpwb3N0Zml4T3BzLgpTZWUgdGhlIFNjYWxhIGRvY3MgZm9yIHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgZm9yIGEgZGlzY3Vzc2lvbgp3aHkgdGhlIGZlYXR1cmUgc2hvdWxkIGJlIGV4cGxpY2l0bHkgZW5hYmxlZC4B
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/app.scala -> 
+AAAAAAAAAAA=
+/Users/alextanhongpin/Documents/scala/scala-basics/apress-scala-for-data-science/program.scala -> 
+AAAAAAAAAAA=
+compilations:
+19 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2sK+gx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2uLB251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2uPjHV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2ufCVl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2u7QVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2u7+n51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vAbxR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vP7+x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vQ/iJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vSr3h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vT0oh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vh9Pp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vokVl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vv9dR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vzNH91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2vz+Bd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2v/N1d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2wAZXd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAci9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Hb29nbGUgRHJpdmUvUHJvZ3JhbW1pbmcvc2NhbGEvYmFzaWMvYXByZXNzLXNjYWxhLWZvci1kYXRhLXNjaWVuY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW21FSpx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbGV4dGFuaG9uZ3Bpbi9Eb2N1bWVudHMvc2NhbGEvc2NhbGEtYmFzaWNzL2FwcmVzcy1zY2FsYS1mb3ItZGF0YS1zY2llbmNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

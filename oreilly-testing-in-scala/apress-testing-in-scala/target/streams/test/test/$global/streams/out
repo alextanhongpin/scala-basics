@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.ShouldMatcherSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.JukeboxStorageServiceEasyMockWithSugarSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.JukeboxFreeSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.ArtistScalaCheckProperties, org.scalacheck.ScalaCheckFramework$$anon$3@5dfff111, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.BasicScalaCheckProperties, org.scalacheck.ScalaCheckFramework$$anon$3@5dfff111, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.AlbumFeatureSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.AlbumFixtureSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.AlbumWordSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.TrackFlatSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.AlbumTest, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.AlbumSpecAll, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.JukeboxStorageServiceEasyMockSpec, org.scalatest.tools.Framework$$anon$1@5fb08cda, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.ArtistScalaCheckProperties-0, org.scalacheck.ScalaCheckFramework$$anon$3@5dfff111, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.alextanhongpin.testingscala.BasicScalaCheckProperties-0, org.scalacheck.ScalaCheckFramework$$anon$3@5dfff111, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mScalaCheck[0m
+[0m[[0minfo[0m] [0mPassed: Total 2, Failed 0, Errors 0, Passed 2[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 516 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 14[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 10, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 14, failed 0, canceled 0, ignored 2, pending 2[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0minfo[0m] [0mPassed: Total 16, Failed 0, Errors 0, Passed 16, Ignored 2, Pending 2[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.JukeboxStorageServiceEasyMockWithSugarSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.BasicScalaCheckProperties[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.ShouldMatcherSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.TrackFlatSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.JukeboxFreeSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.AlbumFeatureSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.ArtistScalaCheckProperties[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.JukeboxStorageServiceEasyMockSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.AlbumFixtureSpec[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.AlbumTest[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.AlbumSpecAll[0m
+[0m[[0mdebug[0m] [0m	com.alextanhongpin.testingscala.AlbumWordSpec[0m

@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mAlbumBeforeAndAfterFixtureSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA mutable ListBuffer of albums[0m[0m
+[0m[[0minfo[0m] [0m[32m+ Starting to populate the discography [0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a size of 3 when two more albums are added to the Human League Discography[0m[0m
+[0m[[0minfo[0m] [0m[32m+ Clearing the discography [0m[0m
+[0m[[0minfo[0m] [0m[32m+ Starting to populate the discography [0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a size of 2 when one more album is added to the Human League Discography[0m[0m
+[0m[[0minfo[0m] [0m[32m+ Clearing the discography [0m[0m

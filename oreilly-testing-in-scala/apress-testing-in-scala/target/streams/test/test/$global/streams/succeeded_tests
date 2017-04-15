@@ -1,0 +1,22 @@
+#Successful Tests
+#Sat Apr 15 23:01:32 MYT 2017
+com.alextanhongpin.scalatest.AlbumFixtureSpec=1492237869023
+com.alextanhongpin.testingscala.JukeboxFreeSpec=1492268492212
+com.alextanhongpin.testingscala.AlbumTest=1492268492229
+com.alextanhongpin.testingscala.BasicScalaCheckProperties=1492268492067
+com.alextanhongpin.testingscala.AlbumFeatureSpec=1492268492208
+com.alextanhongpin.testingscala.JukeboxStorageServiceEasyMockSpec=1492268492255
+com.alextanhongpin.testingscala.BasicScalaCheckProperties-0=1492268492384
+com.alextanhongpin.testingscala.AlbumMutableFixtureSpec=1492248441731
+com.alextanhongpin.testingscala.AlbumFixtureSpec=1492268492216
+com.alextanhongpin.testingscala.JukeboxStorageServiceEasyMockWithSugarSpec=1492268492309
+com.alextanhongpin.testingscala.AlbumListOneInstancePerTestFreeSpec=1492248441726
+com.alextanhongpin.testingscala.ArtistScalaCheckProperties-0=1492268492471
+com.alextanhongpin.testingscala.TrackFlatSpec=1492268492365
+com.alextanhongpin.testingscala.AlbumSpec=1492263557989
+com.alextanhongpin.testingscala.ArtistScalaCheckProperties=1492268492066
+com.alextanhongpin.testingscala.AlbumFixtureTraitSpec=1492248441731
+com.alextanhongpin.testingscala.AlbumSpecAll=1492268492239
+com.alextanhongpin.testingscala.AlbumWordSpec=1492268492223
+com.alextanhongpin.testingscala.ShouldMatcherSpec=1492268492231
+com.alextanhongpin.testingscala.AlbumBeforeAndAfterFixtureSpec=1492248441744

@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mJukeboxFreeSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mGiven 3 albums[0m[0m
+[0m[[0minfo[0m] [0m[32m  when a juke box is instantiated it should accept some albums[0m[0m
+[0m[[0minfo[0m] [0m[32m  - then a jukebox's album catalog size should be 3[0m[0m
+[0m[[0minfo[0m] [0m[32mEl constructor de Jukebox puedo aceptar la palabra clave de 'None'[0m[0m
+[0m[[0minfo[0m] [0m[32m- y regresas 'None' cuando llamado [0m[0m

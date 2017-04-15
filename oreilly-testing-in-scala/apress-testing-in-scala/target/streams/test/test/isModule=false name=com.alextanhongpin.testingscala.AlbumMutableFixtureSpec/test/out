@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mAlbumMutableFixtureSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mGiven a single fixture each beach boy discography initially contains a single album[0m[0m
+[0m[[0minfo[0m] [0m[32m- then after 1 album is added, the discography size should be 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- then after 2 albums are added, the discography size should return 3[0m[0m
