@@ -1,0 +1,7 @@
+set name := "Sample Kafka"
+session save
+exit
+sbt reload
+reload
+update
+exit
