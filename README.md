@@ -23,3 +23,9 @@ You have to choose only one of these three types:
 - Set
 
 The actual decision is to choose between the mutable and immutable versions.
+
+## Checklist
+- [x] Basics
+- [x] OOP in Scala
+- [x] Functional Programming
+- [x] Pattern Matching
