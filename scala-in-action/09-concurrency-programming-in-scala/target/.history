@@ -1,0 +1,13 @@
+set name := "Actors"
+session save
+q
+quit
+end
+run
+update
+reload
+update
+ run
+run
+help
+run
