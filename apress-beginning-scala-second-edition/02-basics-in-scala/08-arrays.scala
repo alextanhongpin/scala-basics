@@ -1,7 +1,7 @@
 // 08-arrays.scala
 
 // Array of strings
-var books:Array[String] = new Array[String](3)
+var books: Array[String] = new Array[String](3)
 println(books)
 
 // Simplifying array declarations

@@ -13,3 +13,5 @@ val empty = Nil
 
 // Creating a list of books using a Tail Nil and ::
 val books = "Beginning Java" :: ("Beginning Groovy" :: ("Beginning JavaScript" :: Nil))
+
+

@@ -32,3 +32,28 @@ def mOlder(p: Person): Option[String] = p match {
 }
 
 println(mOlder(p))
+
+
+
+// Another example
+abstract class Food
+
+case class Maggi(val name: String) extends Food
+case class NasiLemak(val name: String) extends Food
+
+
+class MaggiGoreng(override val name: String) extends Maggi(name)
+
+
+val maggiGoreng = new MaggiGoreng("Mamak Maggi Goreng")
+val nasiLemak = new NasiLemak("NasiLemak")
+def matchFood(food: Food): String = {
+  food match {
+    case Maggi(name) => name
+    case NasiLemak(name) => name
+    case _ => "Not matched"
+  }
+}
+
+println(matchFood(maggiGoreng))
+println(matchFood(nasiLemak))

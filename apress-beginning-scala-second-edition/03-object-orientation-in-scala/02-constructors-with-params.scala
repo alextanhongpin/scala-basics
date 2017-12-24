@@ -30,3 +30,4 @@ val toy = new Toy()
 println(toy.title)
 val toy2 = new Toy("Pokemon")
 println(toy2.title)
+
